@@ -85,7 +85,7 @@ streamlit run app.py
 This project demonstrates an end-to-end machine learning system, from data analysis and ANN model training to deployment using a web interface.
 ```
 
-### 🚀 Future Enhancements
+# 🚀 Future Enhancements
 
 Add model evaluation metrics in the UI
 
@@ -95,7 +95,7 @@ Enhance feature engineering
 
 Experiment with different ANN architectures
 
-### 👤 Author Details
+# 👤 Author Details
 
 Author: Arpan Patra
 
